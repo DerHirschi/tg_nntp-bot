@@ -1,0 +1,2 @@
+pytz~=2024.1
+python-telegram-bot~=20.0
